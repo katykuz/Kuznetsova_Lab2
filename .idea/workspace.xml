@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6194cf20-f2f5-43e0-8abd-aff36e6e2fad" name="Changes" comment="">
+    <list default="true" id="6194cf20-f2f5-43e0-8abd-aff36e6e2fad" name="Changes" comment="Finished comments and finalized logic of winner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kuznetsova_Lab2/DiceGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kuznetsova_Lab2/DiceGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Kuznetsova_Lab2/LoadedDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kuznetsova_Lab2/LoadedDie.java" afterDir="false" />
@@ -38,11 +38,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Seattle U Certificate/cpsc5002/week1day2",
+    "last_opened_file_path": "C:/Seattle U Certificate/cpsc5002/Kuznetsova_Lab2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -76,8 +79,17 @@
       <updated>1658863526907</updated>
       <workItem from="1658863528490" duration="17610000" />
       <workItem from="1659146223838" duration="941000" />
-      <workItem from="1659147190340" duration="14638000" />
+      <workItem from="1659147190340" duration="15074000" />
+      <workItem from="1659215665916" duration="3492000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished comments and finalized logic of winner">
+      <created>1659213765657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659213765657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished comments and finalized logic of winner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished comments and finalized logic of winner" />
   </component>
 </project>

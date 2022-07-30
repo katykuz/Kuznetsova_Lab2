@@ -67,25 +67,42 @@ public class LoadedDie {
             value = rand.nextInt(SIDES) + 1;
     }
 
-    //result value getter/accessor
+    /**
+     * getter/accessor for value variable
+     *
+     * @return int  value getter/accessor
+     */
     public int getValue()
     {
         return value;
     }
 
-    //loaded number getter/accessor
+    /**
+     * getter/accessor for value variable
+     *
+     * @return int  value getter/accessor
+     */
     public int getLoadedNum()
     {
         return loadedNum;
     }
 
-    //setter/modifier in case object creator wants to change the loaded value
+    /**
+     * setter/modifier in case object creator wants to
+     * change the loaded value
+     *
+     * @param num  integer for loaded number value
+     */
     public void setLoadedNum(int num) {
         loadedNum = num;
     }
 
-    //setter/modifier in case object creator wants to change the
-    //prioritizing amount
+    /**
+     * setter/modifier in case object creator wants to change the
+     * prioritizing amount
+     *
+     * @param priority  integer value to prioritize by
+     */
     public void setLoadPerHundred(int priority) {
         loadPerHundred = priority;
     }
