@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6194cf20-f2f5-43e0-8abd-aff36e6e2fad" name="Changes" comment="Modified additional comments and added a print statement with how many times each player won." />
+    <list default="true" id="6194cf20-f2f5-43e0-8abd-aff36e6e2fad" name="Changes" comment="Modified additional comments and added a print statement with how many times each player won.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Seattle U Certificate/cpsc5002/Kuznetsova_Lab2",
+    "last_opened_file_path": "C:/Seattle U Certificate/cpsc5002/Kuznetsova_lab3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +78,8 @@
       <workItem from="1658863528490" duration="17610000" />
       <workItem from="1659146223838" duration="941000" />
       <workItem from="1659147190340" duration="15074000" />
-      <workItem from="1659215665916" duration="4128000" />
+      <workItem from="1659215665916" duration="4156000" />
+      <workItem from="1659246364512" duration="3450000" />
     </task>
     <task id="LOCAL-00001" summary="Finished comments and finalized logic of winner">
       <created>1659213765657</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659219218279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modified additional comments and added a print statement with how many times each player won.">
+      <created>1659222363405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659222363405</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
